@@ -1,0 +1,30 @@
+# Maven
+target/
+*.class
+.m2
+
+# Log file
+*.log
+
+# Eclipse
+.classpath
+.project
+.settings/
+.externalToolBuilders/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Build output directies
+build/
+
+# IntelliJ specific files/directories
+out
+.idea
+*.ipr
+atlassian-ide-plugin.xml
